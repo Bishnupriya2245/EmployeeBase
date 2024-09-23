@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Package files
+frontend/package.json
+frontend/package-lock.json
+backend/package.json
+backend/package-lock.json
+frontend/eslint.config.js
+frontend/postcss.config.js
+
+# Environment variables
+.env
+
+# Other files to ignore
+.DS_Store
+*.log
